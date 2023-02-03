@@ -1,0 +1,33 @@
+.container{
+    background-color: blanchedalmond;
+    height: 400px;
+    width: 400px;
+    border: 2px;
+    border-color: crimson;
+    display: flex;
+    flex-basis: 0px;
+    flex-wrap: wrap;
+    
+    align-items: center;
+    row-gap: 0px;
+}
+.one{
+    height: 50px;
+    width: 50px;
+    background-color: deeppink;
+    float: left;
+
+}
+.two{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(10, 168, 36);
+    float: left;
+
+}
+.three{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(38, 8, 119);
+
+}
